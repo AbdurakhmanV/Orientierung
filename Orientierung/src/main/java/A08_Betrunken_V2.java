@@ -4,6 +4,7 @@ public class A08_Betrunken_V2 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Mein Sohn! Darfst du ueberhaupt Autofahren?");
+        System.out.println();
         System.out.println("Wie alt bist du?");
         int age = scan.nextInt();
         if (age < 17) {
