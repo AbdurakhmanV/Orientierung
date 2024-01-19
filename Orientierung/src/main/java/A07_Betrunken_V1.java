@@ -13,7 +13,7 @@ public class A07_Betrunken_V1 {
             System.out.println("Du bist leicht betrunken Sohn.");
         } else if (beer + shots <= 6) {
             if (beer == 6) {
-                System.out.println("Du bist betrunken mein Sohn.");
+                System.out.println("Du bist betrunken Sohn.");
             } else {
                 System.out.println("Mein Sohn du bist hoffnungslos betrunken.");
             }
