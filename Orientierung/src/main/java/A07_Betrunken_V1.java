@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class A07_Betrunken_V1 {
     public static void main(String[] args) {
         Scanner scannerForUser = new Scanner(System.in);
+        System.out.println("Mein Sohn vielleicht bist du betrunken.");
         System.out.println("Mein Sohn wie viel Bier hast du getrunken?");
         int beer = scannerForUser.nextInt();
         System.out.println("Mein Sohn viele Shots hast du getrunken?");
