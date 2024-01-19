@@ -12,7 +12,7 @@ public class A17_GaudiMitArrays_V2 {
         System.out.println("\n" + alphabet);
         System.out.println("""
                 Um wie viele Stellen sollen die Buchstaben im Alphabet verschoben werden?"
-                Gib die Anzahl der Stellen an.
+                Gib die Anzahl der Stellen an. 
                 Eine positive Zahl verschiebt das Alphabet nach rechts und eine negative Zahl nach rechts.""");
 
         int shiftAmount = scan.nextInt();
