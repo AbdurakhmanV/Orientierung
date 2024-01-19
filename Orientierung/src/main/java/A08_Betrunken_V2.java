@@ -65,6 +65,6 @@ public class A08_Betrunken_V2 {
 //        1
 //        Wie viel Shots hast du getrunken?
 //        1
-//        Du darfst Auto fahren
+//        Du darfst Auto fahren.
 //
 //        Anforderung 1: Es darf immer nur 1 Ergebnis rauskommen, und die Ergebnisse müssen stimmen.
