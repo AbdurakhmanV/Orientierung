@@ -8,7 +8,6 @@ public class A09_MuenzeWerfen_V2 {
         int headAmount = 0;
         int tailAmount = 0;
         System.out.println("Wie oft soll die Muenze geworfen werden?");
-        System.out.println();
         int toss = scan.nextInt();
 
         for(int i = 0; i < toss; ++i) {
