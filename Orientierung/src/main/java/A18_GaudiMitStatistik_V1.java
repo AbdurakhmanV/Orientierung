@@ -1,6 +1,6 @@
 public class A18_GaudiMitStatistik_V1 {
     public static void main(String[] args) {
-        String sentence = "Das wussten wir damals nicht. Erst seit 223 Tagen. #Wusstest du es?!";
+        String sentence = "Das wussten wir damals nicht. Erst seit 223 Tagen. #Wusstest du es damals?!";
         char[] sentenceAnalysingArray = sentence.toCharArray();
         int bigLetterAmount = 0;
         int smallLetterAmount = 0;
